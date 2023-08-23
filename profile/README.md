@@ -2,9 +2,9 @@
 
 这里是指星公益服的官方汉化组：指星汉化组的公共汉化文件仓库
 
-欢迎加入我们！QQ 群：257189437
+欢迎加入我们！QQ 群：912726159
 
-[点击此处直接加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=O22qmPBMJ9HAc2rqbSgd7L5hT4aBDtZA&authKey=IhUhlbVlv%2BoYbHe0i00NveALaBh4kB0MEGxRreYYBdPbJnHH23vzJN1dEdDUwOJu&noverify=0&group_code=257189437)
+[点击此处直接加入群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=HdvLgXksYCvO25otpBCsPPbSuD9pHMgA&authKey=i2DQ%2BZXB7gAKpQ%2FI3Y%2F41eHvHoB22NSiwZLr18TSVVs%2FyjZCfX%2FYmo7NX0PokQEm&noverify=0&group_code=912726159)
 
 ---
 
