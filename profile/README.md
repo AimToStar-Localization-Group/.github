@@ -8,7 +8,7 @@
 
 ---
 
-DarkRPG (Pack)7.1.6 翻译进度：
+DarkRPG (Pack)7.2.9 翻译进度：
 
 <a href="http://weblate.zhxiwiki.org.cn/engage/darkrpg-pack7-1-6-mc1-20-1/zh_Hans/">
 <img src="http://weblate.zhxiwiki.org.cn/widgets/darkrpg-pack7-1-6-mc1-20-1/zh_Hans/svg-badge.svg" alt="翻译状态" />
